@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: white;
+    background-color: #4FBDBA;
+
+    
+}
+
+#survey-form{
+    color: gray;
+    background-color: #FFF8F3;
+    width: 40%;
+    text-align: left;
+    margin: 0 auto 0 auto;
+    padding: 1% 0 4% 5%;
+    font-size: 1.1rem;
+}
+
+
+.input-form{
+    width: 90%;
+    height: 1.9rem;
+    border-radius: 5px;
+    padding: .5% 0 .5% 1%;
+    margin-bottom: 3%;
+}
+
+.radio-section{
+    margin: 2% 0;
+}
+
+
+#text-area{
+    margin: 1% 0 0;
+    width: 90%;
+    height: 5rem;
+    font-size: 1.1rem;
+}
+
+#submit{
+    width: 91%;
+    height: 3rem;
+    border-radius: 3px;
+    background-color: #8267BE;
+    font-size: 100%;
+    color: white;
+    margin-top: 4%;
+}
