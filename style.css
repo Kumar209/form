@@ -18,6 +18,12 @@ body{
     font-size: 1.1rem;
 }
 
+@media(max-width:1000px){
+    #survey-form{
+       width:85%;
+    }
+}
+
 
 .input-form{
     width: 90%;
